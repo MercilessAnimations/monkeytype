@@ -40,3 +40,11 @@ Create a pull request:
 
 Make sure your quote(s) follows the quote guidelines.
 [Quote guidelines](./CONTRIBUTING.md#quote-guidelines)
+
+{
+    "text": "[Ask for forgiveness from Enya, the woman you killed. But as for me, I never had the slightest intention of forgiving you.]",
+    "source": "[Jotaro Kujo - Stardust Crusaders]",
+    "id": [5597],
+    "length": [121]
+    ./frontend/static/quotes/[language].json
+}
